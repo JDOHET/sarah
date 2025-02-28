@@ -12,8 +12,8 @@
 - **Force verticale en  C :**  50  kN vers le bas à  2.5  m de  B 
 
 ### **Inconnues des réactions aux appuis :**
-- **Réactions en A  :** $$ A_x, A_y $$
-- **Réactions en D  :** $$ D_x, D_y $$
+- **Réactions en A  :** $A_x, A_y$
+- **Réactions en D  :** $D_x, D_y$
 
 ---
 
@@ -63,15 +63,15 @@ $$ A_y = 50 - D_y = 50 - (-39.44) = 89.44 	{ kN} $$
 ## **3. Vérification des équilibres**
 
 ### **1. Équilibre des forces horizontales**  
-$$ A_x + D_x = -59.44 + 89.44 = 30.0 $$  
+$A_x + D_x = -59.44 + 89.44 = 30.0$  
 ✅ **Correct**
 
 ### **2. Équilibre des forces verticales**  
-$$ A_y + D_y = 89.44 - 39.44 = 50.0 $$  
+$A_y + D_y = 89.44 - 39.44 = 50.0$  
 ✅ **Correct**
 
-### **3. Équilibre des moments autour de $$ A $$**  
-$$ - D_y 	* 5 + D_x 	* 0.4 = -(-39.44) 	* 5 + 89.44 	* 0.4 = 233.0 $$  
+### **3. Équilibre des moments autour de A**  
+$- D_y 	* 5 + D_x 	* 0.4 = -(-39.44) 	* 5 + 89.44 	* 0.4 = 233.0$  
 ✅ **Correct**
 
 ---

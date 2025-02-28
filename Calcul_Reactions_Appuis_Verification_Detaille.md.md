@@ -4,7 +4,7 @@
 
 ### **Géométrie du portique :**
 - **Barre verticale AB (gauche) :**  $$h_{AB}$$= 3.6  m, articulée en  A 
-- **Barre horizontale BC :** $$l_{BC}$$ = 5$ m
+- **Barre horizontale BC :** $$l_{BC}$$ = 5 m
 - **Barre verticale CD (droite) :** $$h_{CD}$$ = 3.0 m, articulée en D
 
 ### **Charges appliquées :**

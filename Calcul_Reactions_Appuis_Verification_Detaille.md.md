@@ -31,7 +31,7 @@ $$- D_y 	*5 + D_x 	* 0.4 = 233$$
 ---
 
 ### **Étape 1 : Résolution de  $$D_y$$**  
-Nous isolons $D_y$ en utilisant l’équation des moments :  
+Nous isolons $$D_y$$ en utilisant l’équation des moments :  
 
 $$D_x 	* 0.4 = 233 + D_y 	* 5$$  
 
@@ -42,7 +42,7 @@ $$D_y = -39.44 	\ { kN}$$
 ---
 
 ### **Étape 2 : Calcul de $$D_x$$**  
-Substituons $D_y$ dans l’équation précédente :  
+Substituons $$D_y$$ dans l’équation précédente :  
 
 $$D_x = \frac{233 + (-39.44)*5}{0.4}$$  
 
@@ -78,6 +78,3 @@ $$- D_y 	* 5 + D_x 	* 0.4 = -(-39.44) 	* 5 + 89.44 	* 0.4 = 233.0$$
 
 ### **Conclusion :**  
 Tous les équilibres sont respectés. **Les résultats sont corrects.** ✅
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkxMTY0MzFdfQ==
--->
